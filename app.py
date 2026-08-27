@@ -7,9 +7,9 @@ app = Flask(__name__)
 # ======================
 # CONFIG
 # ======================
-PANEL_URL = "https://topsfollows.com/api/v2"
-API_KEY = "fe7d0e0987bbaa59ac524c3c52e3f95a"
-SERVICE_ID = 4013  # TikTok Comment Likes (DIRECT COMMENT LINK)
+PANEL_URL = "https://godofpanel.com/api/v2
+API_KEY = "c4868df4a78299b800d222cd9478ba17"
+SERVICE_ID = 5836  # TikTok Comment Likes (DIRECT COMMENT LINK)
 
 # ======================
 # HTML
