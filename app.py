@@ -7,7 +7,7 @@ app = Flask(__name__)
 # ======================
 # CONFIG
 # ======================
-PANEL_URL = "https://godofpanel.com/api/v2
+PANEL_URL = "https://godofpanel.com/api/v2"
 API_KEY = "c4868df4a78299b800d222cd9478ba17"
 SERVICE_ID = 8771  # TikTok Comment Likes (DIRECT COMMENT LINK)
 
